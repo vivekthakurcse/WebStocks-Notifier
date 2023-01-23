@@ -3,7 +3,7 @@ import json
 import websockets
 
 async def subscribe_to_stock():
-    async with websockets.connect('ws://your-stock-market-api-url') as websocket:
+    async with websockets.connect('ws://enter-your-stock-url') as websocket:
         subscribe_message = json.dumps({'type': 'subscribe', 'symbol': 'your-stock-symbol'})
         await websocket.send(subscribe_message)
         current_price = None
