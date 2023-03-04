@@ -8,8 +8,8 @@ Before running this code, you need to replace the placeholder values for the Web
 
 <h4>
 Libraries to install :
-<br/>
-<li>pip install websockets</li>
+<br/><br/>
+li>pip install websockets</li>
 <li>pip install json</li>
 <li>pip install smtplib</li>
 <li>pip install asyncio</li>
