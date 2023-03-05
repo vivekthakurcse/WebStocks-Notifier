@@ -2,6 +2,7 @@ import asyncio
 import json
 import websockets
 import smtplib
+import pywhatkit
 
 async def subscribe_to_stock():
     async with websockets.connect('ws://enter-your-stock-url') as websocket:
