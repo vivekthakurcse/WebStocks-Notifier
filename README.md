@@ -1,4 +1,4 @@
-<h2 align="center">WebStocks Notifier</h2>
+<h2 align="center">WebStocks Notifier 📊</h2>
 <p>A program that monitors your trade graph and sends you a notification whenever the graph is falling.</p>
 
 
