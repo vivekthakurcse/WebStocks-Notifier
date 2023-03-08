@@ -8,11 +8,13 @@
 <h4>Libraries Required ~ </h4>
 
 ```sh
+
      pip install webstocks
      pip install json
      pip install smtplib
      pip install asyncio
      pip install pywhatkit
+
  ```
 
 <p>Also, make sure to enable less secure apps in your Google account if you are using Gmail to send the email notifications. </p>
