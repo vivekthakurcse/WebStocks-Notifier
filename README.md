@@ -3,9 +3,10 @@
 
 
 <p>
-<b><a href="#">Note ~ </a></b>Before running this code, you need to replace the placeholder values for the WebSocket URL, stock symbol, email address, email password, and to email address with the actual values for your setup. </p>
+<br/><a href="#">Note ~ </a></b>Before running this code, you need to replace the placeholder values for the WebSocket URL, stock symbol, email address, email password, and to email address with the actual values for your setup. </p>
 
 <h4>Libraries Required ~ </h4>
+
 ```sh
      pip install webstocks
      pip install json
